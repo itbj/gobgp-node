@@ -5,7 +5,7 @@ npm install gobgp
 ```
 ###[Cisco__Serguei Bezverkhi extended GoBGP to support advertisement of SRv6 L3VPN NLRIs.](https://www.segment-routing.net/open-software/gobgp/)  
 ###[Github__GoBGP: BGP implementation in Go](https://github.com/osrg/gobgp)  
-###🚀🚀🚀🚀🚀[自己曾经做过bgp，还用了蛮长的一段时间](http://anbenqishi.github.io/2019/09/03/arts-tips-gobgp-gns3-start/)  
+###[自己曾经做过bgp，还用了蛮长的一段时间](http://anbenqishi.github.io/2019/09/03/arts-tips-gobgp-gns3-start/)  跑题了？  
 ###[利用GoBGP和Cisco NXOSv学习VXLAN EVPN](https://www.shangmayuan.com/a/24acf1fdf2d9422ba03eb7f6.html)  
 ```
 2. 安装 GoBGPless
