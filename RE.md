@@ -21,8 +21,8 @@ Peer            AS  Up/Down State       |#Received  Accepted
 ###🚀🚀🚀🚀🚀[TKE 混合云网络方案同时提出了基于 BGP 直接路由的 Underlay 网络方案。该网络模型采用 GoBGP 实现，基于 Cilium 打通了 Node-Pod 以及 Pod-Pod 之间网络](https://juejin.cn/post/6981630423793156110)  
 ###[腾讯云TKE-基于 Cilium 统一混合云容器网络（上）](https://juejin.cn/post/6976138850762489864)  🚀🚀🚀🚀🚀  
 ###[腾讯云TKE-基于 Cilium 统一混合云容器网络（下）](https://juejin.cn/post/6981630423793156110)  🚀🚀🚀🚀🚀  
-###[可视化BGP-LS表（Python、GoBGP、gRPC、NetworkX）](https://www.gingerdoc.com/default/visualising-bgp-ls-tables)  
-###[]()  
+###[可视化BGP-LS表（Python、GoBGP、gRPC、NetworkX）](https://www.gingerdoc.com/default/visualising-bgp-ls-tables)  ⚡⚡⚡⚡⚡  
+###[Tutorial: Using GoBGP as an IXP connecting router](https://docplayer.net/38651947-Tutorial-using-gobgp-as-an-ixp-connecting-router.html)  ⚡⚡⚡⚡⚡  
 ###[]()  
 ###[]()  
 ###[]()  
