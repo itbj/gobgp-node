@@ -11,6 +11,10 @@ npm install gobgp
 2. 安装 GoBGPless
 
 GoBGP 的安装很是简单，从 https://github.com/osrg/gobgp/releases 下载 tar.gz 文件，解压便可。
+
+/tmp$ ./gobgp neighbor
+Peer            AS  Up/Down State       |#Received  Accepted
+1.7.5.250    65000 00:05:30 Establ      |        1         1
 ```
 ###🚀🚀🚀🚀🚀[作者__陈程_SDLAB__利用GoBGP和Cisco NXOSv学习VXLAN EVPN](https://www.sdnlab.com/22918.html)  
 ###[BGP学习笔记 GoBGP资料归档](https://www.xknote.com/blog/206243.html)  
@@ -22,6 +26,12 @@ GoBGP 的安装很是简单，从 https://github.com/osrg/gobgp/releases 下载 
 ###[]()  
 ###[]()  
 ###[]()  
+###[]()  
+###[]()  
+###[Basic BGP Configuration](https://www.9tut.com/basic-bgp-configuration)  
+###[Configuring BGP Neighbors on Cisco Routers](https://www.flackbox.com/cisco-bgp-neighbor-configuration)  
+###[A Simple BGP Configuration](https://www.oreilly.com/library/view/cisco-ios-in/156592942X/ch10s02.html)  
+###[BGP Routing – Essentials](https://www.bgp.us/routing/)  bgp.us 🚀🚀🚀🚀🚀  
 ###[从quagga到FRRouting (FRR)](https://developer.aliyun.com/article/458873?accounttraceid=54f931f74f584c92bc3522983b7fbb25jzmi)  
 ###[FRRouting (FRR) is a free and open source Internet routing protocol suite for Linux and Unix platforms. It implements BGP, OSPF, RIP, IS-IS, PIM, LDP, BFD, Babel, PBR, OpenFabric and VRRP, with alpha support for EIGRP and NHRP.](https://frrouting.org/)  
 ###[FRR 项目可以将服务器当作路由器使用，叫板思科！ ](https://www.sohu.com/a/132206757_465914)  
